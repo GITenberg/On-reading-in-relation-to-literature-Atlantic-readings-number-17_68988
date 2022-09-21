@@ -1,0 +1,33 @@
+_repo: On-reading-in-relation-to-literature-Atlantic-readings-number-17_68988
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hearn, Lafcadio
+    aliases:
+    - Koizumi, Yakumo
+    - Hearn, Patrick Lafcadio
+    - Xiaoquan, Bayun
+    birthdate: 1850
+    deathdate: 1904
+    gutenberg_agent_id: '368'
+    url: http://www.gutenberg.org/2009/agents/368
+    wikipedia: https://en.wikipedia.org/wiki/Lafcadio_Hearn
+description: ''
+gutenberg_issued: '2022-09-14'
+identifiers:
+  gutenberg: '68988'
+language: en
+pgterms:marc905: 20220602145102hearn
+pgterms:marc906: '1921'
+pgterms:marc907: US
+production_note: hekula03, Thomas Frost and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This book was produced from images made available by the
+  HathiTrust Digital Library.)
+publication_note: United States :The Atlantic Monthly Press, Inc.,1921.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'On reading in relation to literature: Atlantic readings, number 17'
+url: http://www.gutenberg.org/ebooks/68988
